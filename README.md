@@ -1,6 +1,7 @@
 # OPEN-BLOCKCHAIN-SPECIFIC-LICENSE
 
 This License is **NOT FINALIZED**
+
 THE LICENSE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND!
 
 An OpenSource-like license that specifies how certain software can not be used for cryptocurrencies, except for ones in the approved list.
