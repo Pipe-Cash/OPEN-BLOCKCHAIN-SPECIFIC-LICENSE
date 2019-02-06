@@ -14,3 +14,20 @@ Write your opinions and comments in the "Issues" part of the git repository.
 If corrections are needed - do a pull request.
 
 Thank you.
+
+
+-------------
+
+
+**The uploaded example license permits usage on the Bitcoin SV and Bitcoin blockchains:**
+
+ - It defines Bitcoin SV as the longest chain following block #560000
+ - It defines Bitcoin as the longest chain following block #1
+
+**The License respects Proof of Work:**
+
+It defines the conditions in which a chain becomes longer than another, as "an advantage of at least 1000 blocks".
+
+That means that in a case where a Bitcoin Fork has more Proof of Work than BTC (by at least 1000 times the latest BTC block), the license will officially treat the Bitcoin Fork as Bitcoin.
+
+Until then Bitcoin (BTC) is Bitcoin.
