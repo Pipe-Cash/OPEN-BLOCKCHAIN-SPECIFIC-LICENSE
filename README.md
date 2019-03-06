@@ -26,6 +26,6 @@ Thank you.
 
 It defines the conditions in which a chain becomes longer than another, as "an advantage of at least 1000 blocks".
 
-That means that in a case where a Bitcoin Fork has more Proof of Work than BTC (by at least 1000 times the latest BTC block), the license will officially treat the Bitcoin Fork as Bitcoin.
+That means that in a case where a copmpeting Bitcoin protocol has more Proof of Work than BTC (by at least 1000 times the latest BTC block), the license will officially treat that Bitcoin protocol as Bitcoin.
 
 Until then Bitcoin (BTC) is Bitcoin.
