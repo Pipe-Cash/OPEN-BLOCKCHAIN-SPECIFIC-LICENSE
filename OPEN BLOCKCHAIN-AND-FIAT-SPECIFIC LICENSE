@@ -1,4 +1,4 @@
-OPEN BLOCKCHAIN-SPECIFIC LICENSE
+OPEN BLOCKCHAIN-AND-FIAT-SPECIFIC LICENSE
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
@@ -9,6 +9,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
         - defined as the Bitcoin chain with the most SHA-256 Proof of Work accumulated, following block height #560000 with this hash: 0000000000000000035cb1baaf4f82d8358a8b9ed22aec52c2801a02b9c6f18f.
     - Purposes related to The Bitcoin Blockchain
         - defined as the Bitcoin chain with the most SHA-256 Proof of Work accumulated, following block height #1 with this hash: 00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048.
+    - Purposes related to Government (FIAT) money.
+        - Defined as any form of money issued by a government and declared a legal tender by a government.
     - Purposes not related to money
         - defined as any usage of the software that does not interact in any way with any form of money
 

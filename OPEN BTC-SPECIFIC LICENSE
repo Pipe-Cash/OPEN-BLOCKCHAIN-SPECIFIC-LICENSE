@@ -1,12 +1,10 @@
-OPEN BLOCKCHAIN-SPECIFIC LICENSE
+OPEN BTC-SPECIFIC LICENSE
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction other than the conditions set out below, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1.  Usage Limitations. The grant to deal provided above is restricted to dealing in the Software only for purposes relating to one or multiple of the following:
-    - Purposes related to The Bitcoin SV Blockchain
-        - defined as the Bitcoin chain with the most SHA-256 Proof of Work accumulated, following block height #560000 with this hash: 0000000000000000035cb1baaf4f82d8358a8b9ed22aec52c2801a02b9c6f18f.
     - Purposes related to The Bitcoin Blockchain
         - defined as the Bitcoin chain with the most SHA-256 Proof of Work accumulated, following block height #1 with this hash: 00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048.
     - Purposes not related to money
